@@ -6,7 +6,7 @@
 
 <div style="display: flex; gap: 1em;">
 
-![abersheeran's GitHub stats](https://github-readme-stats.vercel.app/api?username=abersheeran)
+<!-- ![abersheeran's GitHub stats](https://github-readme-stats.vercel.app/api?username=abersheeran) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abersheeran)
 
