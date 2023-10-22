@@ -40,6 +40,9 @@
   <a href="https://github.com/abersheeran/rgo-error">
     <img align="center" alt="(R)Go Error" src="https://github-readme-stats.vercel.app/api/pin/?hide_border=true&username=abersheeran&repo=rgo-error" />
   </a>
+  <a href="https://github.com/abersheeran/lua-resty-sm4">
+    <img align="center" alt="lua-resty-sm4" src="https://github-readme-stats.vercel.app/api/pin/?hide_border=true&username=abersheeran&repo=lua-resty-sm4" />
+  </a>
 
 </div>
 
