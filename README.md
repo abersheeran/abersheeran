@@ -25,6 +25,9 @@
   <a href="https://github.com/abersheeran/baize">
     <img align="center" alt="BáiZé" src="https://github-readme-stats.vercel.app/api/pin/?hide_border=true&username=abersheeran&repo=baize" />
   </a>
+  <a href="https://github.com/abersheeran/zibai">
+    <img align="center" alt="Zī Bái" src="https://github-readme-stats.vercel.app/api/pin/?hide_border=true&username=abersheeran&repo=zibai" />
+  </a>
   <a href="https://github.com/abersheeran/a2wsgi">
     <img align="center" alt="a2wsgi" src="https://github-readme-stats.vercel.app/api/pin/?hide_border=true&username=abersheeran&repo=a2wsgi" />
   </a>
@@ -45,6 +48,9 @@
   </a>
   <a href="https://github.com/abersheeran/rust-h11">
     <img align="center" alt="rust-h11" src="https://github-readme-stats.vercel.app/api/pin/?hide_border=true&username=abersheeran&repo=rust-h11" />
+  </a>
+  <a href="https://github.com/abersheeran/r2-webdav">
+    <img align="center" alt="r2-webdav" src="https://github-readme-stats.vercel.app/api/pin/?hide_border=true&username=abersheeran&repo=r2-webdav" />
   </a>
 
 </div>
