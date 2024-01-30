@@ -52,6 +52,9 @@
   <a href="https://github.com/abersheeran/r2-webdav">
     <img align="center" alt="r2-webdav" src="https://github-readme-stats.vercel.app/api/pin/?hide_border=true&username=abersheeran&repo=r2-webdav" />
   </a>
+  <a href="https://github.com/abersheeran/httpbenchmark">
+    <img align="center" alt="httpbenchmark" src="https://github-readme-stats.vercel.app/api/pin/?hide_border=true&username=abersheeran&repo=httpbenchmark" />
+  </a>
 
 </div>
 
