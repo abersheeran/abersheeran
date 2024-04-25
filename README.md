@@ -55,6 +55,9 @@
   <a href="https://github.com/abersheeran/httpbenchmark">
     <img align="center" alt="httpbenchmark" src="https://github-readme-stats.vercel.app/api/pin/?hide_border=true&username=abersheeran&repo=httpbenchmark" />
   </a>
+  <a href="https://github.com/abersheeran/typedmongo">
+    <img align="center" alt="Typed Mongo" src="https://github-readme-stats.vercel.app/api/pin/?hide_border=true&username=abersheeran&repo=typedmongo" />
+  </a>
 
 </div>
 
