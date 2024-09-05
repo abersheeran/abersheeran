@@ -28,6 +28,9 @@
   <a href="https://github.com/abersheeran/zibai">
     <img align="center" alt="Zī Bái" src="https://github-readme-stats.vercel.app/api/pin/?hide_border=true&username=abersheeran&repo=zibai" />
   </a>
+  <a href="https://github.com/abersheeran/typedmongo">
+    <img align="center" alt="Typed Mongo" src="https://github-readme-stats.vercel.app/api/pin/?hide_border=true&username=abersheeran&repo=typedmongo" />
+  </a>
   <a href="https://github.com/abersheeran/a2wsgi">
     <img align="center" alt="a2wsgi" src="https://github-readme-stats.vercel.app/api/pin/?hide_border=true&username=abersheeran&repo=a2wsgi" />
   </a>
@@ -54,9 +57,6 @@
   </a>
   <a href="https://github.com/abersheeran/httpbenchmark">
     <img align="center" alt="httpbenchmark" src="https://github-readme-stats.vercel.app/api/pin/?hide_border=true&username=abersheeran&repo=httpbenchmark" />
-  </a>
-  <a href="https://github.com/abersheeran/typedmongo">
-    <img align="center" alt="Typed Mongo" src="https://github-readme-stats.vercel.app/api/pin/?hide_border=true&username=abersheeran&repo=typedmongo" />
   </a>
 
 </div>
